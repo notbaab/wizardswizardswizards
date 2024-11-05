@@ -1,11 +1,11 @@
 @font-face {
-font-family: "dnd";
-src: url("/fonts/ForgetMeKnot-Roman.otf") ;
+  font-family: "dnd";
+  src: url("/fonts/ForgetMeKnot-Roman.otf") ;
 }
 
 @font-face {
-font-family: "dnd-title";
-src: url("/fonts/MedievalMystery.ttf") ;
+  font-family: "dnd-title";
+  src: url("/fonts/MedievalMystery.ttf") ;
 }
 
 
@@ -23,6 +23,11 @@ body {
   text-align: right;
   font-style: italic;
   font-weight: bold;
+}
+
+.report {
+/*  font-family: "Verdana";*/
+  font-family: "Courier";
 }
 
 body:after {
